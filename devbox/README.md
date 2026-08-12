@@ -87,7 +87,7 @@ Ensure you have **Node.js** (version 18.0 or higher) installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/devbox.git
+   git clone https://github.com/Akshat-ak-hub/devbox.git
    cd devbox
    ```
 
