@@ -87,7 +87,7 @@ Ensure you have **Node.js** (version 18.0 or higher) installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Akshat-ak-hub/devbox.git
+   git clone https://github.com/Akshat-ak-hub/WebBox-DevToolkit.git
    cd devbox
    ```
    *(If you downloaded the repository as a ZIP, extract it and navigate into the `devbox` folder).*
