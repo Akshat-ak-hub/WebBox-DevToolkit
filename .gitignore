@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+devbox/node_modules/
+
+# Production build outputs
+dist/
+devbox/dist/
+
+# Package archives
+*.zip
+devbox.zip
+devbox/*.zip
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
